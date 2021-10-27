@@ -43,7 +43,7 @@ In the datasets we are provided with 12 columns of data.
 For more details, please go through the Demo given below -
 
 # 🎯 Retail SuperStore Data Analysis Project Video -
-[![Demo Video](https://user-images.githubusercontent.com/84115928/139112872-cab4db47-64c6-4ca1-89e7-2aa433e622dc.JPG)](https://www.youtube.com/watch?v=ruRvXaBgrGA)
+[![Demo Video](https://user-images.githubusercontent.com/84115928/139117346-0ef0b3f3-43d9-41eb-8c33-36e42253908c.JPG)](https://www.youtube.com/watch?v=ruRvXaBgrGA)
 
 
 # 🏽‍ Conclusions
