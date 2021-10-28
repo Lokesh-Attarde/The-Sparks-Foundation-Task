@@ -26,7 +26,8 @@ In the datasets we are provided with 12 columns of data.
 * Quantity : Number of Quantities bought 
 * Discount : Discount given on the purchase
 * Profit : Profit made in USD
-* Out of the 12 features given in the datasets 04 are Continuous and 08 (including the target variable) are Categorical features.
+
+Out of the 12 features given in the datasets 04 are Continuous and 08 (including the target variable) are Categorical features.
 
 # 🖥️ Technologies:
 ## 🛠️ Tools Used
