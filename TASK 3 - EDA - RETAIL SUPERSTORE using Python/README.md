@@ -26,7 +26,8 @@ In the datasets we are provided with 12 columns of data.
 * Quantity : Number of Quantities bought 
 * Discount : Discount given on the purchase
 * Profit : Profit made in USD
-* Out of the 12 features given in the datasets 04 are Continuous and 08 (including the target variable) are Categorical features.
+
+Out of the 12 features given in the datasets 04 are Continuous and 08 (including the target variable) are Categorical features.
 
 # 🖥️ Technologies:
 ## 🛠️ Tools Used
@@ -45,7 +46,7 @@ In the datasets we are provided with 12 columns of data.
 For more details, please go through the Demo given below -
 
 # 🎯 Retail SuperStore Data Analysis Project Video -
-https://user-images.githubusercontent.com/84115928/139030834-1315c794-f1d1-40a4-808b-d33b1cde787b.mp4
+https://user-images.githubusercontent.com/84115928/139205019-47dce5aa-4738-4579-9a9b-aa3add2aec0e.mp4
 
 # 🏽‍ Conclusions
 ## Weak Areas where we can Work to make More Profit -
