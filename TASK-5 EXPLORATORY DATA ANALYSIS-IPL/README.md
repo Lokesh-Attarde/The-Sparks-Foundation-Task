@@ -20,7 +20,7 @@ In the deliveries and matches datasets, we are provided with 21 and 18 columns o
 * batsman : Name of the batsman on strike
 * batsman_runs : Total runs made by the batsman
 
-* Out of the 39 features given in the datasets 18 are Continuous and 21 (including the target variable) are Categorical features.
+Out of the 39 features given in the datasets 18 are Continuous and 21 (including the target variable) are Categorical features.
 
 # 🖥️ Technologies:
 ## 🛠️ Tools Used
